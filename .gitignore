@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Django secrets
+.env
+db.sqlite3
+
+# Logs and temp files
+*.log
+*.pot
+*.pyc
+.DS_Store
+
+# IDE and OS-specific files
+.vscode/
+*.swp
